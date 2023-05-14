@@ -1,0 +1,27 @@
+RJ; São Gonçalo; 1021903
+RJ; São Gonçalo; 1021903
+RJ; São Gonçalo; 1021903
+AL; Maceió; 1005319
+RJ; Duque de Caxias; 878402
+RN; Natal; 862044
+MS; Campo Grande; 843120
+RJ; São Gonçalo; 1021903
+AL; Maceió; 1005319
+RJ; Duque de Caxias; 878402
+RN; Natal; 862044
+MS; Campo Grande; 843120
+RJ; São Gonçalo; 1021903
+AL; Maceió; 1005319
+RJ; Duque de Caxias; 878402
+RN; Natal; 862044
+MS; Campo Grande; 843120
+RJ; São Gonçalo; 1021903
+AL; Maceió; 1005319
+RJ; Duque de Caxias; 878402
+RN; Natal; 862044
+MS; Campo Grande; 843120
+RJ; São Gonçalo; 1021903
+AL; Maceió; 1005319
+RJ; Duque de Caxias; 878402
+RN; Natal; 862044
+MS; Campo Grande; 843120
