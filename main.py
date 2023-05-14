@@ -15,6 +15,8 @@ if __name__ == '__main__':
 
 # utilizando um módulo
 
+import areas
 
+areas.triangulo(5, 8)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
